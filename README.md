@@ -85,5 +85,5 @@ For more details, refer to the respective activation details in the documentatio
 <a href="https://discord.gg/mythicalbottuz" target="_blank"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/discord-round-color-icon.png" width="205" alt="Mythical Bottuz" /></a>
 
 
-
-
+By using or contributing to this project, you agree to the terms mentioned.<br><br>
+<strong>By using, you agree to the <a href="/LICENSE">License Terms</a> as well.</strong>
