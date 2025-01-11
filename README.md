@@ -76,13 +76,15 @@ For more details, refer to the respective activation details in the documentatio
 
 <br>
 
+![image](https://github.com/kamrullab/MAS/assets/128359757/bc4a3437-0468-4c4a-82fc-a89bf0fbe890)
+
+<br>
+
 ## Join Our Discord Server
 
 We'd love for you to join our community! You can connect with us and other members via our Discord server:
 
 [Join our Discord](https://discord.gg/mythicalbottuz)
 
-![image](https://github.com/kamrullab/MAS/assets/128359757/bc4a3437-0468-4c4a-82fc-a89bf0fbe890)
 
-<br>
 
