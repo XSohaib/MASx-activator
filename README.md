@@ -1,4 +1,4 @@
-# Microsoft Activation Scripts (MAS)
+# Microsoft Activation Scripts (MAS) </a> Premium Spotify for Windows <a href="#"><img width="20px"src="https://th.bing.com/th/id/R.046fa91f8d199d90b754d3eafd17b24f?rik=p%2b22qfykols3sg&pid=ImgRaw&r=0"></a></b></div> </h2>
 
 A Windows and Office activator using HWID / Ohook / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.
 
