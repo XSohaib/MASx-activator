@@ -80,11 +80,10 @@ For more details, refer to the respective activation details in the documentatio
 
 <br>
 
-## Join Our Discord Server
+<h1>Join my Discord:</h1>
 
-We'd love for you to join our community! You can connect with us and other members via our Discord server:
+<a href="https://discord.gg/mythicalbottuz" target="_blank"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/discord-round-color-icon.png" width="205" alt="Mythical Bottuz" /></a>
 
-[Join our Discord](https://discord.gg/mythicalbottuz)
 
 
 
